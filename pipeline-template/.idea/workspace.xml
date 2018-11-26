@@ -54,8 +54,30 @@
       <file leaf-file-name="Column.scala" pinned="false" current-in-tab="false">
         <entry file="jar://$USER_HOME$/.ivy2/cache/org.apache.spark/spark-sql_2.11/srcs/spark-sql_2.11-2.3.0-sources.jar!/org/apache/spark/sql/Column.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="27">
-              <caret line="58" column="2" lean-forward="true" selection-start-line="58" selection-start-column="2" selection-end-line="58" selection-end-column="2" />
+            <state relative-caret-position="237">
+              <caret line="72" column="29" lean-forward="true" selection-start-line="72" selection-start-column="29" selection-end-line="72" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ExpressionEncoder.scala" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.ivy2/cache/org.apache.spark/spark-catalyst_2.11/srcs/spark-catalyst_2.11-2.3.0-sources.jar!/org/apache/spark/sql/catalyst/encoders/ExpressionEncoder.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="19" column="7" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+              <folding>
+                <element signature="e#850#879#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SparkExpressionEncoder.sc" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/worksheets/SparkExpressionEncoder.sc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="314" column="1" lean-forward="false" selection-start-line="314" selection-start-column="1" selection-end-line="314" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -71,11 +93,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SparkTypedColumn.sc" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SparkTypedColumn.sc" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/worksheets/SparkTypedColumn.sc">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="63" lean-forward="true" selection-start-line="9" selection-start-column="63" selection-end-line="9" selection-end-column="63" />
+            <state relative-caret-position="231">
+              <caret line="18" column="26" lean-forward="true" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -149,6 +171,7 @@
         <option value="$PROJECT_DIR$/src/test/worksheets/scrap.sc" />
         <option value="$PROJECT_DIR$/src/test/worksheets/SparkSelectImplementation.sc" />
         <option value="$PROJECT_DIR$/src/test/worksheets/SparkTypedColumn.sc" />
+        <option value="$PROJECT_DIR$/src/test/worksheets/SparkExpressionEncoder.sc" />
       </list>
     </option>
   </component>
@@ -597,8 +620,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/worksheets/BasicWorksheets/PropertiesAndState.sc" />
-    <entry file="file://$PROJECT_DIR$/src/test/worksheets/BasicWorksheets/requireAndPreconditions.sc" />
     <entry file="file://$PROJECT_DIR$/src/test/worksheets/BasicWorksheets/OverrideExample.sc" />
     <entry file="file://$PROJECT_DIR$/src/test/worksheets/BasicWorksheets/ConstructorsParamParametricFields.sc" />
     <entry file="file://$PROJECT_DIR$/src/test/worksheets/BasicWorksheets/ScopeAndAccessModifiers.sc" />
@@ -796,22 +817,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.ivy2/cache/org.apache.spark/spark-sql_2.11/srcs/spark-sql_2.11-2.3.0-sources.jar!/org/apache/spark/sql/Dataset.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="1360" column="24" lean-forward="true" selection-start-line="1360" selection-start-column="24" selection-end-line="1360" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.ivy2/cache/org.apache.spark/spark-sql_2.11/srcs/spark-sql_2.11-2.3.0-sources.jar!/org/apache/spark/sql/Column.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="58" column="2" lean-forward="true" selection-start-line="58" selection-start-column="2" selection-end-line="58" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/worksheets/SparkSelectImplementation.sc">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -830,8 +835,42 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/worksheets/SparkTypedColumn.sc">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="63" lean-forward="true" selection-start-line="9" selection-start-column="63" selection-end-line="9" selection-end-column="63" />
+        <state relative-caret-position="231">
+          <caret line="18" column="26" lean-forward="true" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.apache.spark/spark-sql_2.11/srcs/spark-sql_2.11-2.3.0-sources.jar!/org/apache/spark/sql/Dataset.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="1360" column="24" lean-forward="true" selection-start-line="1360" selection-start-column="24" selection-end-line="1360" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.apache.spark/spark-sql_2.11/srcs/spark-sql_2.11-2.3.0-sources.jar!/org/apache/spark/sql/Column.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="72" column="29" lean-forward="true" selection-start-line="72" selection-start-column="29" selection-end-line="72" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.apache.spark/spark-catalyst_2.11/srcs/spark-catalyst_2.11-2.3.0-sources.jar!/org/apache/spark/sql/catalyst/encoders/ExpressionEncoder.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="19" column="7" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+          <folding>
+            <element signature="e#850#879#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/worksheets/SparkExpressionEncoder.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="314" column="1" lean-forward="false" selection-start-line="314" selection-start-column="1" selection-end-line="314" selection-end-column="1" />
           <folding />
         </state>
       </provider>
