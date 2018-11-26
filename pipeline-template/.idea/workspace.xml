@@ -19,20 +19,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Main.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/com/rsic/datatools/pipeline/template/Main.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="7" lean-forward="false" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SourceData.scala" pinned="false" current-in-tab="false">
+      <file leaf-file-name="SourceData.scala" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/scala/com/rsic/datatools/pipeline/template/pipeline/SourceData.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="316">
+            <state relative-caret-position="555">
               <caret line="37" column="10" lean-forward="false" selection-start-line="37" selection-start-column="10" selection-end-line="37" selection-end-column="10" />
               <folding>
                 <element signature="e#55#129#0" expanded="true" />
@@ -41,63 +31,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Dataset.scala" pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.ivy2/cache/org.apache.spark/spark-sql_2.11/srcs/spark-sql_2.11-2.3.0-sources.jar!/org/apache/spark/sql/Dataset.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="1360" column="24" lean-forward="true" selection-start-line="1360" selection-start-column="24" selection-end-line="1360" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Column.scala" pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.ivy2/cache/org.apache.spark/spark-sql_2.11/srcs/spark-sql_2.11-2.3.0-sources.jar!/org/apache/spark/sql/Column.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="237">
-              <caret line="72" column="29" lean-forward="true" selection-start-line="72" selection-start-column="29" selection-end-line="72" selection-end-column="29" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ExpressionEncoder.scala" pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.ivy2/cache/org.apache.spark/spark-catalyst_2.11/srcs/spark-catalyst_2.11-2.3.0-sources.jar!/org/apache/spark/sql/catalyst/encoders/ExpressionEncoder.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="19" column="7" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
-              <folding>
-                <element signature="e#850#879#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SparkExpressionEncoder.sc" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/worksheets/SparkExpressionEncoder.sc">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="314" column="1" lean-forward="false" selection-start-line="314" selection-start-column="1" selection-end-line="314" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="scrap.sc" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/worksheets/scrap.sc">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="259">
-              <caret line="436" column="0" lean-forward="true" selection-start-line="436" selection-start-column="0" selection-end-line="436" selection-end-column="0" />
+            <state relative-caret-position="165">
+              <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SparkTypedColumn.sc" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/worksheets/SparkTypedColumn.sc">
+      <file leaf-file-name="PimpMyLibPatternExtImplicits.sc" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/worksheets/PimpMyLibPatternExtImplicits.sc">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="18" column="26" lean-forward="true" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
+            <state relative-caret-position="248">
+              <caret line="108" column="0" lean-forward="true" selection-start-line="108" selection-start-column="0" selection-end-line="108" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -121,20 +69,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/scala/MockData.scala" />
-        <option value="$PROJECT_DIR$/PropertiesAndState.sc" />
-        <option value="$PROJECT_DIR$/ConstructorsAndParams.sc" />
-        <option value="$PROJECT_DIR$/ConstructorsParamParametricAndScope.sc" />
-        <option value="$PROJECT_DIR$/OverrideExample.sc" />
-        <option value="$PROJECT_DIR$/requireAndPreconditions.sc" />
-        <option value="$PROJECT_DIR$/ScopeAndAccessModifiers.sc" />
-        <option value="$PROJECT_DIR$/AuxiliaryConstructor.sc" />
-        <option value="$PROJECT_DIR$/CompanionObjectsAndFactories.sc" />
-        <option value="$PROJECT_DIR$/scratch.sc" />
-        <option value="$PROJECT_DIR$/TryCatchFinally.sc" />
-        <option value="$PROJECT_DIR$/src/main/scala/FileReader.scala" />
-        <option value="$PROJECT_DIR$/MethodOverloadStrategy.sc" />
-        <option value="$PROJECT_DIR$/ImplicitConversion.sc" />
         <option value="$PROJECT_DIR$/InfixFormAndSymbolicMethods.sc" />
         <option value="$PROJECT_DIR$/Infix.sc" />
         <option value="$PROJECT_DIR$/src/main/scala/FileWriter.scala" />
@@ -168,16 +102,30 @@
         <option value="$PROJECT_DIR$/src/main/scala/com/rsic/datatools/pipeline/template/Main.scala" />
         <option value="$PROJECT_DIR$/src/test/scala/com/rsic/datatools/pipeline/template/MainTestSpec.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/rsic/datatools/pipeline/template/pipeline/SourceData.scala" />
-        <option value="$PROJECT_DIR$/src/test/worksheets/scrap.sc" />
         <option value="$PROJECT_DIR$/src/test/worksheets/SparkSelectImplementation.sc" />
         <option value="$PROJECT_DIR$/src/test/worksheets/SparkTypedColumn.sc" />
         <option value="$PROJECT_DIR$/src/test/worksheets/SparkExpressionEncoder.sc" />
+        <option value="$PROJECT_DIR$/src/test/worksheets/SparkScalaMirror.sc" />
+        <option value="$PROJECT_DIR$/src/test/worksheets/ImplicitClassExtension.sc" />
+        <option value="$PROJECT_DIR$/src/test/worksheets/ImplicitConversion.sc" />
+        <option value="$PROJECT_DIR$/src/test/worksheets/OverloadingMethods.sc" />
+        <option value="$PROJECT_DIR$/src/test/worksheets/OverrideApplyAbstract.sc" />
+        <option value="$PROJECT_DIR$/src/test/worksheets/SuperClassMethodsAndConst.sc" />
+        <option value="$PROJECT_DIR$/src/test/worksheets/Matches.sc" />
+        <option value="$PROJECT_DIR$/src/test/worksheets/ExtendingFunction1Class.sc" />
+        <option value="$PROJECT_DIR$/src/test/worksheets/AbstractTypeMembersAndEncode.sc" />
+        <option value="$PROJECT_DIR$/src/test/worksheets/SealedTraitCaseClass.sc" />
+        <option value="$PROJECT_DIR$/src/test/worksheets/ScalaTaggedTypes.sc" />
+        <option value="$PROJECT_DIR$/src/test/worksheets/TraitTypeParams.sc" />
+        <option value="$PROJECT_DIR$/src/test/worksheets/scrap.sc" />
+        <option value="$PROJECT_DIR$/src/test/worksheets/RecursiveType.sc" />
+        <option value="$PROJECT_DIR$/src/test/worksheets/PimpMyLibPatternExtImplicits.sc" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="40" />
-    <option name="y" value="97" />
+    <option name="x" value="49" />
+    <option name="y" value="96" />
     <option name="width" value="1400" />
     <option name="height" value="757" />
   </component>
@@ -315,6 +263,7 @@
       <recent name="$PROJECT_DIR$/src/main/scala/com/rsic/datatools/pipeline/template/fixtures" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/worksheets/SparkRefMats" />
       <recent name="$PROJECT_DIR$/src/main" />
       <recent name="$PROJECT_DIR$/src/test/worksheets/BasicWorksheets" />
       <recent name="$PROJECT_DIR$/src/test/worksheets" />
@@ -333,13 +282,27 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.ClassesDemo">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
+    </configuration>
+    <configuration name="ClassesDemo" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="ClassesDemo" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="pipeline-template" />
+      <envs />
     </configuration>
     <configuration name="FileWriter" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -473,18 +436,20 @@
       <option name="PROGRAM_PARAMETERS" />
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
-    <list size="4">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Application.Main" />
       <item index="1" class="java.lang.String" itemvalue="Application.FileWriter" />
       <item index="2" class="java.lang.String" itemvalue="ScalaTest.MainTestSpec" />
       <item index="3" class="java.lang.String" itemvalue="ScalaTest.BarTestSpec" />
+      <item index="4" class="java.lang.String" itemvalue="Application.ClassesDemo" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Application.Main" />
-        <item index="1" class="java.lang.String" itemvalue="ScalaTest.MainTestSpec" />
-        <item index="2" class="java.lang.String" itemvalue="ScalaTest.BarTestSpec" />
-        <item index="3" class="java.lang.String" itemvalue="Application.FileWriter" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.ClassesDemo" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Main" />
+        <item index="2" class="java.lang.String" itemvalue="ScalaTest.MainTestSpec" />
+        <item index="3" class="java.lang.String" itemvalue="ScalaTest.BarTestSpec" />
+        <item index="4" class="java.lang.String" itemvalue="Application.FileWriter" />
       </list>
     </recent_temporary>
   </component>
@@ -577,19 +542,19 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="40" y="97" width="1400" height="757" extended-state="0" />
+    <frame x="49" y="96" width="1400" height="757" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15861027" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15861027" sideWeight="0.48821798" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="sbt" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22507553" sideWeight="0.13622975" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15861027" sideWeight="0.51178205" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22507553" sideWeight="0.86377025" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22507553" sideWeight="0.86377025" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -620,24 +585,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/worksheets/BasicWorksheets/OverrideExample.sc" />
-    <entry file="file://$PROJECT_DIR$/src/test/worksheets/BasicWorksheets/ConstructorsParamParametricFields.sc" />
-    <entry file="file://$PROJECT_DIR$/src/test/worksheets/BasicWorksheets/ScopeAndAccessModifiers.sc" />
-    <entry file="file://$PROJECT_DIR$/src/test/worksheets/BasicWorksheets/CompanionObjectsAndFactories.sc" />
-    <entry file="file://$PROJECT_DIR$/src/test/worksheets/BasicWorksheets/AuxiliaryConstructor.sc" />
-    <entry file="file://$PROJECT_DIR$/src/test/worksheets/BasicWorksheets/scratch.sc" />
-    <entry file="file://$PROJECT_DIR$/src/test/worksheets/BasicWorksheets/TryCatchFinally.sc" />
-    <entry file="file://$PROJECT_DIR$/src/test/worksheets/BasicWorksheets/InfixFormAndSymbolicMethods.sc" />
-    <entry file="file://$PROJECT_DIR$/src/test/worksheets/BasicWorksheets/ImplicitConversion.sc" />
-    <entry file="file://$PROJECT_DIR$/src/test/worksheets/BasicWorksheets/Infix.sc" />
-    <entry file="file://$PROJECT_DIR$/src/test/worksheets/BasicWorksheets/MethodOverloadStrategy.sc" />
-    <entry file="file://$PROJECT_DIR$/ex1.txt" />
-    <entry file="file://$PROJECT_DIR$/src/test/worksheets/BasicWorksheets/ForYieldRules.sc" />
-    <entry file="file://$PROJECT_DIR$/src/test/worksheets/BasicWorksheets/Yield.sc" />
-    <entry file="file://$PROJECT_DIR$/src/test/worksheets/BasicWorksheets/TryCatchFinallyInference.sc" />
-    <entry file="file://$PROJECT_DIR$/src/test/worksheets/AdvancedWorksheets1/ReWritingAndModifiers.sc" />
-    <entry file="file://$PROJECT_DIR$/src/test/worksheets/AdvancedWorksheets1/PrivateThis.sc" />
-    <entry file="file://$PROJECT_DIR$/src/test/worksheets/AdvancedWorksheets1/CaseClassUnderTheHood.sc" />
     <entry file="file://$PROJECT_DIR$/src/test/worksheets/AdvancedWorksheets1/CustomProperties.sc" />
     <entry file="file://$PROJECT_DIR$/src/test/worksheets/AdvancedTests/Unapply.sc" />
     <entry file="file://$PROJECT_DIR$/src/test/worksheets/AdvancedWorksheets1/AbstractProperties.sc" />
@@ -710,7 +657,7 @@
         <state relative-caret-position="270">
           <caret line="18" column="5" lean-forward="false" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
           <folding>
-            <element signature="e#50#124#0" expanded="true" />
+            <element signature="e#50#124#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -736,7 +683,7 @@
         <state relative-caret-position="150">
           <caret line="10" column="32" lean-forward="true" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
           <folding>
-            <element signature="e#50#124#0" expanded="true" />
+            <element signature="e#50#124#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -807,17 +754,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/rsic/datatools/pipeline/template/pipeline/SourceData.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
-          <caret line="37" column="10" lean-forward="false" selection-start-line="37" selection-start-column="10" selection-end-line="37" selection-end-column="10" />
-          <folding>
-            <element signature="e#55#129#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/worksheets/SparkSelectImplementation.sc">
+    <entry file="file://$PROJECT_DIR$/src/test/worksheets/SparkRefMats/SparkSelectImplementation.sc">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" column="3" lean-forward="true" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
@@ -825,7 +762,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/worksheets/scrap.sc">
+    <entry file="file://$PROJECT_DIR$/src/test/worksheets/SparkRefMats/scrap.sc">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="259">
           <caret line="436" column="0" lean-forward="true" selection-start-line="436" selection-start-column="0" selection-end-line="436" selection-end-column="0" />
@@ -833,7 +770,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/worksheets/SparkTypedColumn.sc">
+    <entry file="file://$PROJECT_DIR$/src/test/worksheets/SparkRefMats/SparkTypedColumn.sc">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
           <caret line="18" column="26" lean-forward="true" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
@@ -841,10 +778,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.ivy2/cache/org.apache.spark/spark-sql_2.11/srcs/spark-sql_2.11-2.3.0-sources.jar!/org/apache/spark/sql/Dataset.scala">
+    <entry file="file://$PROJECT_DIR$/src/test/worksheets/SparkRefMats/SparkExpressionEncoder.sc">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="1360" column="24" lean-forward="true" selection-start-line="1360" selection-start-column="24" selection-end-line="1360" selection-end-column="24" />
+        <state relative-caret-position="173">
+          <caret line="41" column="0" lean-forward="true" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.apache.spark/spark-catalyst_2.11/srcs/spark-catalyst_2.11-2.3.0-sources.jar!/org/apache/spark/sql/catalyst/expressions/objects/objects.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-237">
+          <caret line="202" column="11" lean-forward="false" selection-start-line="202" selection-start-column="11" selection-end-line="202" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/worksheets/SparkRefMats/SparkScalaMirror.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="71">
+          <caret line="579" column="10" lean-forward="true" selection-start-line="579" selection-start-column="10" selection-end-line="579" selection-end-column="10" />
+          <folding>
+            <element signature="e#1424#1441#0" expanded="false" />
+            <element signature="e#35564#35581#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.apache.spark/spark-catalyst_2.11/srcs/spark-catalyst_2.11-2.3.0-sources.jar!/org/apache/spark/sql/catalyst/ScalaReflection.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="436">
+          <caret line="905" column="1" lean-forward="false" selection-start-line="905" selection-start-column="1" selection-end-line="905" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.apache.spark/spark-catalyst_2.11/srcs/spark-catalyst_2.11-2.3.0-sources.jar!/org/apache/spark/sql/catalyst/encoders/ExpressionEncoder.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="39">
+          <caret line="23" column="77" lean-forward="false" selection-start-line="23" selection-start-column="77" selection-end-line="23" selection-end-column="77" />
           <folding />
         </state>
       </provider>
@@ -857,21 +829,141 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.ivy2/cache/org.apache.spark/spark-catalyst_2.11/srcs/spark-catalyst_2.11-2.3.0-sources.jar!/org/apache/spark/sql/catalyst/encoders/ExpressionEncoder.scala">
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.apache.spark/spark-sql_2.11/srcs/spark-sql_2.11-2.3.0-sources.jar!/org/apache/spark/sql/Dataset.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="19" column="7" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
-          <folding>
-            <element signature="e#850#879#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="108">
+          <caret line="1360" column="24" lean-forward="true" selection-start-line="1360" selection-start-column="24" selection-end-line="1360" selection-end-column="24" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/worksheets/SparkExpressionEncoder.sc">
+    <entry file="file://$PROJECT_DIR$/src/test/worksheets/OverrideApplyAbstract.sc">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="314" column="1" lean-forward="false" selection-start-line="314" selection-start-column="1" selection-end-line="314" selection-end-column="1" />
+        <state relative-caret-position="225">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/worksheets/OverloadingMethods.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/worksheets/ImplicitConversion.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/worksheets/SuperClassMethodsAndConst.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="53" lean-forward="false" selection-start-line="19" selection-start-column="53" selection-end-line="19" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/worksheets/Matches.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/worksheets/specialized.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/worksheets/ImplicitClassExtension.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="23" column="7" lean-forward="false" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/worksheets/AbstractTypeMembersAndEncode.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="47" lean-forward="true" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/worksheets/SealedTraitCaseClass.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="36" lean-forward="false" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/worksheets/ScalaTaggedTypes.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/worksheets/ExtendingFunction1Class.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/worksheets/TraitTypeParams.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="39" column="13" lean-forward="false" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/worksheets/RecursiveType.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/worksheets/PimpMyLibPatternExtImplicits.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="108" column="0" lean-forward="true" selection-start-line="108" selection-start-column="0" selection-end-line="108" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/worksheets/scrap.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/rsic/datatools/pipeline/template/pipeline/SourceData.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="37" column="10" lean-forward="false" selection-start-line="37" selection-start-column="10" selection-end-line="37" selection-end-column="10" />
+          <folding>
+            <element signature="e#55#129#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
