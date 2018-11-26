@@ -1,4 +1,4 @@
-package com.rsic.datatools.pipeline.template.utilities
+package com.rsic.datatools.pipeline.template.utils
 
 import java.io._
 
