@@ -22,7 +22,8 @@ libraryDependencies ++= Seq(
   "org.apache.spark" %% "spark-hive" % sparkVersion,
 //  "com.github.mrpowers" % "spark-daria" % "v2.1.0_0.24.0",
 //  "com.github.mrpowers" % "spark-fast-tests" % "v2.3.0_0.12.0" % "test",
-  "mysql" % "mysql-connector-java" % "5.1.6"
+  "mysql" % "mysql-connector-java" % "5.1.6",
+  "org.scalaz" %% "scalaz-core" % "7.2.27"
 )
 
 assembly / assemblyOption := (assembly / assemblyOption).value
