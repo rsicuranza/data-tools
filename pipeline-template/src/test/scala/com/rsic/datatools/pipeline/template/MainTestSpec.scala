@@ -27,5 +27,5 @@ class MainTestSpec
 
   override def nestedSuites: IndexedSeq[Suite] =
     IndexedSeq(new BarTestSpec(pricesDS), new FooTestSpec(pricesDS))
-
 }
+
